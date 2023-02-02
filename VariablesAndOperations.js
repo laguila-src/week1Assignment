@@ -1,13 +1,20 @@
 //create a variable to hold the quantity of available plane seats left on a flight
+let availablePlaneSeats = 10; // data type is number
 
+console.log("Available Plane Seats = " + availablePlaneSeats);
 		
 //create a variable to hold the cost of groceries at checkout
+let costOfGroceries = 27.48;  // data type is number, even if it has floating numbers
+console.log("Cost of groceries = " + costOfGroceries);
 
 
 //create a variable to hold a person's middle initial
+let middleInitial = 'R'; // Data type is string. Can use single or double quotes
 
+console.log("Person's Middle Initial is " + middleInitial);
 
 //create a variable to hold true if it's hot outside and false if it's cold outside
+let isHotOutside = false; // Data type is boolean
 
 //create a variable to hold a customer's first name
 
