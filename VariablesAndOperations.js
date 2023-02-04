@@ -19,7 +19,8 @@ let isHotOutside = false; // Data type is boolean
 //create a variable to hold a customer's first name
 
 
-//create a variable to hold a street address
+//create a variable to hold a street addressdir
+
 
 
 //print all variables to the console
